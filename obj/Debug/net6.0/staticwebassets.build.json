@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cIRaUAxlyJbuw/HMx0LK7k3BvnnZTQbaVDCnMya6JQw=",
+  "Hash": "CxRYG3j7Y0bICiM+cyZRYPw4V1FNmoHEstKsAi/aV3I=",
   "Source": "TraversalCoreProject",
   "BasePath": "_content/TraversalCoreProject",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Beyza\\source\\repos\\TraversalCoreProject\\wwwroot\\Traversal-Starter.rar",
+      "SourceId": "TraversalCoreProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Beyza\\source\\repos\\TraversalCoreProject\\wwwroot\\",
+      "BasePath": "_content/TraversalCoreProject",
+      "RelativePath": "Traversal-Starter.rar",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Traversal-Starter.rar"
     },
     {
       "Identity": "C:\\Users\\Beyza\\source\\repos\\TraversalCoreProject\\wwwroot\\Traversal-Starter\\about.html",
