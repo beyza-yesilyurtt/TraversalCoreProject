@@ -252,3 +252,11 @@ C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\runtimes\win\l
 C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Beyza\source\repos\TraversalCoreProject\obj\Debug\net6.0\TraversalCoreProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\xunit.core.dll
+C:\Users\Beyza\source\repos\TraversalCoreProject\bin\Debug\net6.0\xunit.execution.dotnet.dll
