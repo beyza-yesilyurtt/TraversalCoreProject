@@ -40,7 +40,7 @@ namespace TraversalCoreProject.Controllers
 
                 if (result.Succeeded)
                 {
-                    return RedirectToAction("SıgnIn");
+                    return RedirectToAction("SignIn");
                 }
                 else
                 {
